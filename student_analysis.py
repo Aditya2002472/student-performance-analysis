@@ -4,8 +4,7 @@ import matplotlib.pyplot as plt
 
 # Load Dataset
 
-
-df = pd.read_csv(r"C:\Users\adity\OneDrive\Documents\student_data.csv")
+df = pd.read_csv("data/student_data.csv")
 
 print("First 5 Rows:")
 print(df.head())
@@ -82,12 +81,11 @@ print(top_students[["Student_ID", "Total_Score"]])
 
 # Save Processed Data
 
+df.to_excel("output/cleaned_student_data.xlsx", index=False)
 
-df.to_excel("cleaned_student_data.xlsx", index=False)
+gender_avg.to_csv("output/gender_analysis.csv")
 
-gender_avg.to_csv("gender_analysis.csv")
-parent_avg.to_csv("parent_education_analysis.csv")
-
+parent_avg.to_csv("output/parent_education_analysis.csv")
 
 # Visualizations
 
@@ -128,4 +126,5 @@ plt.show()
 plt.imshow(df.corr(numeric_only=True))
 plt.colorbar()
 plt.title("Correlation Matrix")
+
 plt.show()
