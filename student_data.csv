@@ -1,0 +1,501 @@
+Student_ID,Gender,Math_Score,Science_Score,English_Score,Study_Hours,Parental_Education
+1,Male,74,74,71,1,High School
+2,Male,63,65,69,5,Bachelor
+3,Male,78,85,89,5,Master
+4,Male,82,80,76,2,Bachelor
+5,Female,50,58,58,1,Master
+6,Male,78,68,83,6,Master
+7,Female,57,63,65,5,High School
+8,Male,70,76,67,1,Bachelor
+9,Female,78,60,77,3,Bachelor
+10,Male,72,84,81,2,Bachelor
+11,Female,59,61,57,1,High School
+12,Male,88,100,97,5,PhD
+13,Female,61,71,71,2,Master
+14,Female,79,76,88,5,PhD
+15,Male,66,51,59,1,High School
+16,Female,95,87,96,4,High School
+17,Male,100,91,84,6,Master
+18,Female,66,74,63,2,High School
+19,Female,78,85,79,6,High School
+20,Female,59,57,55,4,High School
+21,Male,67,54,69,5,Bachelor
+22,Male,81,89,92,6,PhD
+23,Male,88,91,99,5,Master
+24,Female,71,71,66,5,Master
+25,Male,90,79,72,5,High School
+26,Male,56,48,62,2,Bachelor
+27,Female,90,77,91,6,PhD
+28,Male,91,88,88,4,PhD
+29,Female,74,93,93,4,High School
+30,Male,82,86,85,4,Bachelor
+31,Female,67,73,66,2,High School
+32,Female,73,70,53,5,High School
+33,Male,78,69,75,2,High School
+34,Male,68,74,69,4,PhD
+35,Female,60,55,72,2,High School
+36,Female,62,62,51,1,High School
+37,Male,53,58,49,2,Bachelor
+38,Male,85,85,83,5,Master
+39,Female,76,77,81,2,Bachelor
+40,Female,58,72,77,4,High School
+41,Male,70,77,68,5,Bachelor
+42,Female,77,69,79,3,High School
+43,Female,69,64,64,6,Bachelor
+44,Female,78,74,88,3,Master
+45,Female,67,60,55,3,High School
+46,Male,93,81,78,3,PhD
+47,Female,52,54,67,5,High School
+48,Female,85,76,73,5,Master
+49,Female,61,57,65,1,PhD
+50,Male,64,51,56,2,Master
+51,Female,89,86,84,6,PhD
+52,Male,73,70,68,4,Bachelor
+53,Male,76,74,72,1,High School
+54,Female,92,85,75,3,High School
+55,Female,67,69,85,2,PhD
+56,Female,100,100,100,6,High School
+57,Female,67,79,66,5,Bachelor
+58,Female,77,68,61,4,Master
+59,Female,89,86,94,6,Bachelor
+60,Male,86,100,99,4,Master
+61,Female,69,66,73,5,Master
+62,Female,82,81,71,4,High School
+63,Female,83,88,90,5,Bachelor
+64,Male,51,59,63,2,High School
+65,Female,84,87,84,4,Bachelor
+66,Male,77,87,81,6,Bachelor
+67,Female,63,74,64,1,PhD
+68,Female,96,93,84,4,PhD
+69,Female,93,81,89,3,PhD
+70,Male,69,67,68,3,Master
+71,Female,61,64,69,5,Bachelor
+72,Male,68,75,72,1,PhD
+73,Male,81,63,81,2,PhD
+74,Female,67,68,72,1,Bachelor
+75,Female,73,58,70,2,Master
+76,Female,79,94,92,6,High School
+77,Female,70,88,81,5,Bachelor
+78,Female,61,59,55,2,PhD
+79,Female,87,92,87,3,High School
+80,Female,76,72,85,1,High School
+81,Male,50,69,54,1,Bachelor
+82,Male,87,75,83,4,Master
+83,Female,68,72,66,2,High School
+84,Female,98,92,88,5,Bachelor
+85,Male,100,91,100,6,High School
+86,Female,75,89,93,5,Master
+87,Male,76,74,83,4,PhD
+88,Male,80,78,76,4,PhD
+89,Female,92,89,84,6,Master
+90,Female,92,93,86,2,Master
+91,Male,77,68,73,4,Master
+92,Female,88,71,87,3,Bachelor
+93,Male,88,90,80,2,PhD
+94,Female,75,82,80,4,PhD
+95,Male,88,90,89,3,Master
+96,Female,92,95,89,6,Master
+97,Female,59,52,66,2,Bachelor
+98,Male,81,91,89,2,Master
+99,Male,66,60,64,2,High School
+100,Male,64,56,51,3,PhD
+101,Male,77,77,76,1,Master
+102,Male,56,55,65,1,PhD
+103,Male,74,74,88,5,Master
+104,Male,72,72,72,2,Bachelor
+105,Female,88,83,79,4,High School
+106,Male,74,68,71,2,Bachelor
+107,Male,57,70,71,5,PhD
+108,Female,60,65,53,1,Bachelor
+109,Female,89,79,93,6,Bachelor
+110,Male,51,55,59,3,Master
+111,Female,70,66,74,1,PhD
+112,Female,74,71,80,1,Master
+113,Male,57,67,50,1,Bachelor
+114,Female,93,90,100,5,PhD
+115,Female,72,69,69,1,High School
+116,Male,77,80,85,3,High School
+117,Female,64,57,66,1,High School
+118,Female,69,64,72,4,PhD
+119,Female,67,54,59,1,PhD
+120,Female,48,52,60,1,High School
+121,Female,63,52,69,1,Bachelor
+122,Female,86,88,88,6,Bachelor
+123,Female,75,88,85,5,Bachelor
+124,Male,89,95,87,3,High School
+125,Female,83,93,96,6,PhD
+126,Female,86,82,78,3,Bachelor
+127,Female,75,84,89,2,PhD
+128,Female,98,84,87,6,Master
+129,Male,63,67,76,4,Bachelor
+130,Male,91,100,93,4,High School
+131,Female,97,100,100,6,High School
+132,Male,75,70,81,2,High School
+133,Male,61,62,71,4,High School
+134,Female,70,73,82,3,PhD
+135,Male,68,61,68,2,Bachelor
+136,Female,73,79,67,5,PhD
+137,Female,79,87,75,6,High School
+138,Female,90,83,78,3,PhD
+139,Female,65,69,74,2,Master
+140,Female,73,69,61,6,High School
+141,Female,92,84,80,3,Bachelor
+142,Female,100,85,100,6,High School
+143,Female,61,59,66,4,Master
+144,Female,69,63,68,2,Master
+145,Male,77,70,81,3,High School
+146,Male,88,82,73,2,PhD
+147,Male,77,74,71,3,PhD
+148,Female,79,64,83,1,Master
+149,Male,81,92,85,6,High School
+150,Male,60,48,48,1,Bachelor
+151,Male,87,83,88,4,Bachelor
+152,Female,92,86,81,6,High School
+153,Female,71,75,67,2,Master
+154,Female,62,59,70,1,High School
+155,Male,73,82,79,6,Bachelor
+156,Male,85,73,74,1,Master
+157,Male,64,64,77,5,Master
+158,Male,67,63,74,1,Bachelor
+159,Female,50,53,62,1,High School
+160,Male,86,88,73,4,PhD
+161,Male,75,81,61,5,High School
+162,Female,76,75,63,4,High School
+163,Female,58,62,73,5,Master
+164,Female,90,92,95,5,PhD
+165,Male,74,75,68,6,PhD
+166,Female,75,82,85,4,Master
+167,Female,61,61,61,3,High School
+168,Female,71,84,68,1,Master
+169,Male,72,80,90,4,Master
+170,Female,65,76,68,1,High School
+171,Female,69,79,68,5,PhD
+172,Male,81,86,89,5,Master
+173,Female,53,67,61,3,High School
+174,Male,74,88,78,6,PhD
+175,Female,73,71,72,4,High School
+176,Male,51,57,63,2,PhD
+177,Female,87,85,95,5,High School
+178,Female,77,74,75,4,Master
+179,Male,56,62,65,2,Bachelor
+180,Male,64,61,76,3,PhD
+181,Male,74,75,69,2,High School
+182,Female,71,85,73,6,Master
+183,Female,86,80,89,5,High School
+184,Female,86,77,88,2,High School
+185,Male,94,80,90,4,Master
+186,Female,58,72,76,2,High School
+187,Male,67,63,64,3,Master
+188,Male,85,67,70,2,PhD
+189,Female,100,100,100,5,Master
+190,Female,73,72,78,2,Master
+191,Female,77,63,70,5,PhD
+192,Female,54,47,65,1,High School
+193,Female,80,84,86,4,Bachelor
+194,Female,71,84,73,5,Master
+195,Male,76,82,89,5,PhD
+196,Male,75,76,73,3,High School
+197,Female,69,64,61,1,Master
+198,Male,62,60,71,3,PhD
+199,Male,81,89,84,5,Master
+200,Male,94,87,90,6,Master
+201,Male,64,68,73,3,Bachelor
+202,Male,57,51,64,2,High School
+203,Female,73,74,74,5,Bachelor
+204,Female,64,71,76,1,Master
+205,Female,72,78,69,2,Master
+206,Female,92,96,96,4,PhD
+207,Male,79,72,91,2,PhD
+208,Female,62,55,58,5,Master
+209,Female,71,76,83,5,Master
+210,Male,77,72,68,4,PhD
+211,Male,63,56,73,3,Master
+212,Male,64,53,64,2,PhD
+213,Male,50,48,61,1,PhD
+214,Male,62,60,66,3,PhD
+215,Female,67,65,48,1,Bachelor
+216,Male,78,70,66,3,PhD
+217,Male,89,84,75,6,High School
+218,Female,72,69,61,4,Master
+219,Male,71,63,57,3,High School
+220,Female,79,80,85,5,Bachelor
+221,Male,68,76,73,1,High School
+222,Male,70,66,71,1,PhD
+223,Female,76,78,68,1,Master
+224,Female,82,81,83,1,PhD
+225,Female,76,81,73,2,High School
+226,Female,73,65,66,1,High School
+227,Male,82,87,92,3,PhD
+228,Male,92,79,89,6,PhD
+229,Female,79,97,89,6,Master
+230,Male,50,53,51,1,Bachelor
+231,Female,77,62,72,3,Master
+232,Female,90,76,88,4,Master
+233,Female,79,75,72,3,Bachelor
+234,Female,70,70,76,5,Bachelor
+235,Female,76,77,75,6,PhD
+236,Male,76,77,68,6,Master
+237,Female,79,84,75,2,High School
+238,Male,57,68,74,2,Master
+239,Female,56,63,66,5,PhD
+240,Female,70,76,86,4,High School
+241,Female,81,94,97,4,Bachelor
+242,Male,67,80,68,4,Master
+243,Male,67,72,65,2,High School
+244,Female,72,88,77,2,High School
+245,Male,78,92,92,5,Master
+246,Male,64,62,52,1,Bachelor
+247,Female,85,90,87,5,Master
+248,Female,76,81,69,4,High School
+249,Male,87,79,83,4,Bachelor
+250,Female,86,78,85,6,High School
+251,Female,66,72,65,2,Bachelor
+252,Male,73,67,61,1,Bachelor
+253,Female,89,88,98,5,PhD
+254,Female,63,73,77,3,PhD
+255,Male,67,67,75,2,PhD
+256,Female,66,76,67,3,Master
+257,Female,71,60,77,4,Bachelor
+258,Female,71,75,73,5,Master
+259,Male,64,63,70,2,Master
+260,Male,85,70,70,2,High School
+261,Male,96,94,84,6,Bachelor
+262,Female,77,84,74,5,Master
+263,Female,97,82,93,6,Master
+264,Male,94,74,93,4,PhD
+265,Female,84,100,98,6,Bachelor
+266,Female,68,85,70,2,Bachelor
+267,Male,74,83,76,4,PhD
+268,Female,79,91,81,6,Master
+269,Female,77,86,89,5,Master
+270,Female,100,100,94,6,Bachelor
+271,Female,73,73,70,5,PhD
+272,Female,76,70,85,4,PhD
+273,Female,82,74,82,3,High School
+274,Female,91,82,82,4,Master
+275,Female,56,50,65,2,Bachelor
+276,Male,58,63,51,1,Bachelor
+277,Male,90,85,85,5,Bachelor
+278,Female,57,75,73,3,Bachelor
+279,Male,60,71,74,2,Bachelor
+280,Female,62,63,47,1,Master
+281,Female,84,96,94,4,Master
+282,Male,67,73,61,1,Bachelor
+283,Male,92,80,79,6,PhD
+284,Female,72,63,65,5,Bachelor
+285,Female,61,65,60,3,PhD
+286,Female,63,75,66,3,Bachelor
+287,Male,82,78,85,6,Master
+288,Male,92,80,80,6,Bachelor
+289,Female,75,79,77,2,Bachelor
+290,Male,92,90,92,6,Master
+291,Male,70,69,59,5,Bachelor
+292,Male,74,77,89,3,PhD
+293,Male,78,68,80,5,PhD
+294,Female,75,66,78,5,Master
+295,Male,59,71,69,6,High School
+296,Male,66,70,62,1,Bachelor
+297,Female,79,79,69,3,Bachelor
+298,Female,66,54,57,1,High School
+299,Male,86,81,76,3,Bachelor
+300,Female,62,59,57,3,PhD
+301,Male,53,69,51,2,PhD
+302,Male,79,81,74,2,Bachelor
+303,Male,71,82,74,2,Master
+304,Male,66,62,61,3,High School
+305,Male,100,100,92,6,Master
+306,Female,88,79,84,5,PhD
+307,Male,77,79,74,5,PhD
+308,Male,95,94,82,5,PhD
+309,Male,78,60,72,3,Master
+310,Male,79,86,90,5,High School
+311,Male,86,77,81,2,Master
+312,Male,65,57,69,2,Bachelor
+313,Female,74,77,79,2,Master
+314,Female,80,69,81,3,Master
+315,Male,66,83,72,3,Bachelor
+316,Male,81,76,78,3,Master
+317,Male,85,87,90,4,Master
+318,Female,97,88,94,4,Bachelor
+319,Male,92,100,100,6,High School
+320,Male,63,76,67,1,Bachelor
+321,Male,62,72,70,6,Master
+322,Male,100,85,85,5,PhD
+323,Male,77,69,60,1,PhD
+324,Male,53,52,65,1,Master
+325,Female,82,91,92,3,PhD
+326,Male,73,91,91,6,High School
+327,Male,89,87,73,4,High School
+328,Male,80,70,78,1,High School
+329,Male,64,57,58,2,Master
+330,Male,60,72,58,2,PhD
+331,Male,72,66,71,3,Master
+332,Female,72,67,57,6,High School
+333,Female,69,69,69,2,PhD
+334,Female,78,79,71,1,Master
+335,Female,67,84,74,4,Bachelor
+336,Male,63,71,55,1,PhD
+337,Female,49,58,63,3,Master
+338,Female,51,59,60,1,PhD
+339,Male,63,48,65,1,Master
+340,Female,66,56,71,1,Bachelor
+341,Male,74,78,79,6,Master
+342,Female,61,56,61,2,Master
+343,Female,62,75,70,1,Bachelor
+344,Female,48,60,58,1,PhD
+345,Female,90,89,74,4,Master
+346,Female,92,87,82,5,PhD
+347,Female,96,85,88,3,PhD
+348,Female,77,65,77,4,Bachelor
+349,Male,86,81,74,6,PhD
+350,Female,75,76,72,2,PhD
+351,Female,77,71,76,1,PhD
+352,Male,71,75,79,3,Bachelor
+353,Male,95,98,88,5,High School
+354,Male,70,67,68,3,PhD
+355,Male,58,64,68,3,High School
+356,Male,77,78,82,6,Bachelor
+357,Female,75,75,71,3,High School
+358,Female,67,77,87,1,High School
+359,Male,82,70,75,6,PhD
+360,Female,95,80,80,2,PhD
+361,Female,80,84,79,1,PhD
+362,Male,72,66,82,6,High School
+363,Male,73,62,67,3,PhD
+364,Female,95,80,88,5,Master
+365,Female,84,83,67,5,Bachelor
+366,Female,54,56,62,1,Bachelor
+367,Female,89,83,84,4,Bachelor
+368,Female,92,80,90,6,Master
+369,Male,79,61,71,2,High School
+370,Female,73,72,76,2,PhD
+371,Female,99,100,90,6,High School
+372,Male,61,60,70,2,Master
+373,Male,95,94,81,4,High School
+374,Female,75,78,67,5,PhD
+375,Male,87,79,92,6,Master
+376,Female,63,62,74,1,Master
+377,Female,71,71,66,2,Master
+378,Female,82,81,81,5,Master
+379,Male,75,82,94,2,Bachelor
+380,Male,59,64,67,2,Bachelor
+381,Female,97,85,100,6,High School
+382,Female,94,97,98,5,Master
+383,Male,92,83,74,6,PhD
+384,Male,74,76,75,4,Master
+385,Male,76,76,78,5,PhD
+386,Male,64,50,63,1,Bachelor
+387,Male,75,69,87,6,Master
+388,Female,55,66,74,1,Master
+389,Male,71,68,74,4,PhD
+390,Male,80,78,64,2,High School
+391,Female,71,58,63,1,PhD
+392,Male,80,87,88,6,Master
+393,Male,96,80,78,4,High School
+394,Male,83,67,76,4,PhD
+395,Male,49,64,58,1,Master
+396,Female,81,82,94,3,High School
+397,Male,79,88,85,5,Bachelor
+398,Female,73,81,78,3,High School
+399,Male,84,68,79,4,Master
+400,Male,89,95,83,4,PhD
+401,Male,60,68,66,1,High School
+402,Male,92,88,85,4,PhD
+403,Female,71,65,72,1,High School
+404,Male,77,83,85,2,High School
+405,Female,72,78,73,6,PhD
+406,Male,76,72,70,4,High School
+407,Male,73,69,74,6,Master
+408,Male,59,56,66,3,PhD
+409,Female,80,82,64,5,PhD
+410,Female,76,79,66,5,Master
+411,Male,88,73,77,3,High School
+412,Male,64,60,61,1,Bachelor
+413,Male,69,72,69,1,PhD
+414,Female,57,70,55,3,Bachelor
+415,Male,68,80,75,5,Master
+416,Female,62,73,68,1,Master
+417,Female,91,88,95,6,PhD
+418,Male,79,75,88,6,High School
+419,Male,71,61,73,5,Master
+420,Male,75,77,63,2,Bachelor
+421,Female,60,57,55,1,PhD
+422,Male,78,70,60,5,High School
+423,Female,71,70,72,6,PhD
+424,Female,73,68,72,3,Bachelor
+425,Male,63,63,59,2,PhD
+426,Male,80,75,80,5,Master
+427,Male,68,50,55,1,Master
+428,Male,76,77,81,1,High School
+429,Female,63,65,68,3,Bachelor
+430,Male,58,55,56,4,Bachelor
+431,Male,80,80,62,2,Master
+432,Male,65,59,49,1,High School
+433,Female,47,51,64,1,PhD
+434,Female,73,65,71,4,Bachelor
+435,Male,67,64,82,3,Bachelor
+436,Female,74,75,81,4,PhD
+437,Male,78,75,58,4,PhD
+438,Female,88,95,93,4,Master
+439,Female,61,70,58,3,High School
+440,Female,86,81,88,1,Bachelor
+441,Male,58,67,51,1,Bachelor
+442,Female,61,72,64,3,Master
+443,Male,100,100,90,6,Bachelor
+444,Female,79,65,66,5,High School
+445,Male,73,72,57,5,Master
+446,Male,66,57,56,2,Bachelor
+447,Male,62,71,72,1,High School
+448,Female,64,72,79,3,PhD
+449,Female,77,88,75,2,PhD
+450,Female,90,91,86,6,PhD
+451,Male,86,74,87,2,High School
+452,Female,61,65,64,2,Bachelor
+453,Male,99,85,93,6,Bachelor
+454,Male,74,69,66,6,High School
+455,Female,88,96,98,4,PhD
+456,Female,77,80,82,5,Bachelor
+457,Male,59,50,60,4,Master
+458,Male,65,58,55,1,High School
+459,Female,84,97,100,5,Bachelor
+460,Female,55,51,51,2,PhD
+461,Female,80,76,74,6,PhD
+462,Female,49,62,51,2,Master
+463,Female,53,52,67,2,Master
+464,Male,71,74,74,4,Master
+465,Male,92,98,99,6,Master
+466,Male,71,71,65,4,Bachelor
+467,Female,59,58,67,5,PhD
+468,Male,82,79,83,5,PhD
+469,Male,69,58,73,4,Bachelor
+470,Male,63,63,61,4,High School
+471,Female,72,86,70,1,Master
+472,Female,79,89,94,6,PhD
+473,Female,71,90,89,3,PhD
+474,Male,74,74,74,4,High School
+475,Male,83,91,85,5,PhD
+476,Female,98,99,95,4,High School
+477,Male,80,80,73,3,High School
+478,Female,72,86,79,3,Master
+479,Male,86,85,92,3,High School
+480,Male,69,67,72,2,High School
+481,Male,81,82,77,4,High School
+482,Male,58,70,72,1,High School
+483,Male,57,51,64,2,High School
+484,Female,81,84,86,6,PhD
+485,Male,69,73,77,6,PhD
+486,Male,85,79,82,4,High School
+487,Female,59,72,60,1,Bachelor
+488,Male,90,83,86,6,High School
+489,Male,75,56,63,4,Master
+490,Female,99,98,97,6,PhD
+491,Female,78,81,74,2,High School
+492,Male,98,100,100,5,Master
+493,Female,75,83,81,6,Master
+494,Female,78,76,88,3,Bachelor
+495,Male,76,72,92,5,PhD
+496,Female,80,69,86,3,Bachelor
+497,Female,97,100,95,6,Master
+498,Female,76,70,82,2,Bachelor
+499,Female,93,100,85,6,Bachelor
+500,Female,84,81,82,2,Master
